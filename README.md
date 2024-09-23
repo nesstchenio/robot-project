@@ -11,9 +11,9 @@ The main goal of the robot is to perform the following tasks:
 - Stop at a distance of 20 cm from the obstacle, with a precision of +/- 2 cm.
 
 ## Language, Software and Hardware 
-Programming Language: C
-Software Used: STM32CubeIDE
-Hardware: NUCLEO-L476RG microcontroller
+- Programming Language: C
+- Software Used: STM32CubeIDE
+- Hardware: NUCLEO-L476RG microcontroller
 
 ## Project Specifications 
 ### Functional Requirements
