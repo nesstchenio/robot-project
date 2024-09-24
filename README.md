@@ -28,7 +28,7 @@ The main goal of the robot is to perform the following tasks:
 - PWM-Controlled Treads: The robot moves at 20 cm/s using PWM with a frequency of 5 kHz. The treads are also responsible for rotating the robot when searching for obstacles.
 
 ## Project Files
-- main.c: Contains the full code implementation, including initialization of peripherals and main logic.
+- main.c: Contains the full code implementation, including initialization of peripherals and main logic (Core->Src->main.c).
 - .ioc file: Configuration file used with STM32CubeIDE to set up timers, ADC, PWM, and GPIOs for the push button, treads, and sonar sensor.
 
 ## Key Functions:
